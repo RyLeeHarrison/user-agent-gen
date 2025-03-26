@@ -2,6 +2,8 @@
 
 The `UserAgentSmith` class is a JavaScript utility designed to generate random user agent strings for various browsers and operating systems. This can be useful for testing web applications, simulating browser requests, or web scraping scenarios where diverse user agents are needed.
 
+![Agent Smith](https://upload.wikimedia.org/wikipedia/en/1/1f/Agent_Smith_%28The_Matrix_series_character%29.jpg)
+
 ## Install
 
 To install the `user-agent-smith` package, use one of the following commands:
