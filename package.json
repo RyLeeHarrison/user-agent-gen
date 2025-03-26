@@ -1,5 +1,5 @@
 {
-  "name": "user-agent-generator",
+  "name": "user-agent-gen",
   "version": "1.0.0",
   "description": "A super fast utility designed to generate random user agent strings for various browsers and operating systems.",
   "type": "module",
@@ -16,7 +16,7 @@
   "keywords": [
     "User Agent",
     "Node.js",
-    "user-agent-generator",
+    "user-agent-gen",
     "browser",
     "web-scraping",
     "testing",
@@ -31,12 +31,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryleeharrison/user-agent-generator.git"
+    "url": "git+https://github.com/ryleeharrison/user-agent-gen.git"
   },
   "bugs": {
-    "url": "https://github.com/ryleeharrison/user-agent-generator/issues"
+    "url": "https://github.com/ryleeharrison/user-agent-gen/issues"
   },
-  "homepage": "https://github.com/ryleeharrison/user-agent-generator#readme",
+  "homepage": "https://github.com/ryleeharrison/user-agent-gen#readme",
   "publishConfig": {
     "access": "public"
   }

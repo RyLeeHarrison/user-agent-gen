@@ -4,16 +4,16 @@ The `UserAgentGenerator` class is a JavaScript utility designed to generate rand
 
 ## Install
 
-To install the `user-agent-generator` package, use one of the following commands:
+To install the `user-agent-gen` package, use one of the following commands:
 
 ```bash
-npm install user-agent-generator
+npm install user-agent-gen
 ```
 
 Or via Yarn:
 
 ```bash
-yarn add user-agent-generator
+yarn add user-agent-gen
 ```
 
 **Note:** The Yarn command uses `yarn add` instead of `yarn install` because `yarn add` is the standard way to add a new package to your project dependencies, while `yarn install` is typically used to install all dependencies listed in `package.json`.
@@ -23,7 +23,7 @@ yarn add user-agent-generator
 Here’s how to import and instantiate the `UserAgentGenerator` class:
 
 ```javascript
-import UserAgentGenerator from 'user-agent-generator';
+import UserAgentGenerator from 'user-agent-gen';
 
 const generator = new UserAgentGenerator();
 ```
@@ -91,7 +91,7 @@ Here’s a complete example demonstrating how to use the `UserAgentGenerator` cl
 
 ```javascript
 // example.mjs
-import UserAgentGenerator from 'user-agent-generator';
+import UserAgentGenerator from 'user-agent-gen';
 
 const generator = new UserAgentGenerator();
 
