@@ -1,0 +1,45 @@
+{
+  "name": "user-agent-generator",
+  "version": "1.0.0",
+  "description": "A super fast utility designed to generate random user agent strings for various browsers and operating systems.",
+  "type": "module",
+  "main": "index.mjs",
+  "files": [
+    "src",
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {},
+  "author": "RyLee Harrison <ryleeharrison@icloud.com>",
+  "license": "MIT",
+  "keywords": [
+    "User Agent",
+    "Node.js",
+    "user-agent-generator",
+    "browser",
+    "web-scraping",
+    "testing",
+    "http",
+    "random-user-agent",
+    "javascript",
+    "mobile",
+    "desktop",
+    "simulation",
+    "web-development",
+    "automation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryleeharrison/user-agent-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryleeharrison/user-agent-generator/issues"
+  },
+  "homepage": "https://github.com/ryleeharrison/user-agent-generator#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
+}
