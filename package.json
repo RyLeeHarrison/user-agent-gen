@@ -31,14 +31,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryleeharrison/user-agent-generator.git"
+    "url": "git+https://github.com/ryleeharrison/user-agent-generator.git"
   },
   "bugs": {
     "url": "https://github.com/ryleeharrison/user-agent-generator/issues"
   },
   "homepage": "https://github.com/ryleeharrison/user-agent-generator#readme",
-  "dependencies": {},
-  "devDependencies": {},
   "publishConfig": {
     "access": "public"
   }
