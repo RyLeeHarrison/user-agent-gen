@@ -1,6 +1,6 @@
 {
   "name": "user-agent-smith",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A super fast utility designed to generate random user agent strings for various browsers and operating systems.",
   "type": "module",
   "main": "index.mjs",
@@ -16,6 +16,7 @@
   "keywords": [
     "User Agent",
     "User Agent Generater",
+    "Agent Generater",
     "Node.js",
     "user agent smith",
     "browser",
