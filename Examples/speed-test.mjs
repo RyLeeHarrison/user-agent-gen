@@ -1,8 +1,8 @@
-import UserAgentGenerator from '../index.mjs';
+import UserAgentSmith from '../index.mjs';
 
 // We will masure the time it takes to generate 100k user agents
 
-const generator = new UserAgentGenerator();
+const generator = new UserAgentSmith();
 
 const start = Date.now();
 

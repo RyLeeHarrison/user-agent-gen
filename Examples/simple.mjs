@@ -1,7 +1,7 @@
-import UserAgentGenerator from '../index.mjs';
+import UserAgentSmith from '../index.mjs';
 
 // Example usage
-const generator = new UserAgentGenerator();
+const generator = new UserAgentSmith();
 
 const howMany = 2;
 

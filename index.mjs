@@ -1,3 +1,3 @@
-import UserAgentGenerator from './src/UserAgentGenerator.mjs';
+import UserAgentSmith from './src/UserAgentSmith.mjs';
 
-export default UserAgentGenerator;
+export default UserAgentSmith;

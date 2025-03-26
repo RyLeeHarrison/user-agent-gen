@@ -1,31 +1,31 @@
-# User Agent Generator
+# User Agent Smith
 
-The `UserAgentGenerator` class is a JavaScript utility designed to generate random user agent strings for various browsers and operating systems. This can be useful for testing web applications, simulating browser requests, or web scraping scenarios where diverse user agents are needed.
+The `UserAgentSmith` class is a JavaScript utility designed to generate random user agent strings for various browsers and operating systems. This can be useful for testing web applications, simulating browser requests, or web scraping scenarios where diverse user agents are needed.
 
 ## Install
 
-To install the `user-agent-gen` package, use one of the following commands:
+To install the `user-agent-smith` package, use one of the following commands:
 
 ```bash
-npm install user-agent-gen
+npm install user-agent-smith
 ```
 
 Or via Yarn:
 
 ```bash
-yarn add user-agent-gen
+yarn add user-agent-smith
 ```
 
 **Note:** The Yarn command uses `yarn add` instead of `yarn install` because `yarn add` is the standard way to add a new package to your project dependencies, while `yarn install` is typically used to install all dependencies listed in `package.json`.
 
 ## Usage
 
-Here’s how to import and instantiate the `UserAgentGenerator` class:
+Here’s how to import and instantiate the `UserAgentSmith` class:
 
 ```javascript
-import UserAgentGenerator from 'user-agent-gen';
+import UserAgentSmith from 'user-agent-smith';
 
-const generator = new UserAgentGenerator();
+const generator = new UserAgentSmith();
 ```
 
 You can then call its methods to generate user agent strings. Run your script with:
@@ -87,13 +87,13 @@ console.log(generator.generateMultiple(3));
 
 ## Full Usage Example
 
-Here’s a complete example demonstrating how to use the `UserAgentGenerator` class in a modern Node.js script with MJS syntax:
+Here’s a complete example demonstrating how to use the `UserAgentSmith` class in a modern Node.js script with MJS syntax:
 
 ```javascript
 // example.mjs
-import UserAgentGenerator from 'user-agent-gen';
+import UserAgentSmith from 'user-agent-smith';
 
-const generator = new UserAgentGenerator();
+const generator = new UserAgentSmith();
 
 // Generate a single random user agent
 console.log("Random User Agent:");

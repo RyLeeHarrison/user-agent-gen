@@ -1,4 +1,4 @@
-export default class UserAgentGenerator {
+export default class UserAgentSmith {
   constructor() {
     this.browsers = {
       chrome: {
